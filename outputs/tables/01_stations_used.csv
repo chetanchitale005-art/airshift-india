@@ -1,0 +1,44 @@
+City,stations,ceiling_readings,stuck_hours,State,Region,tier
+Bhopal,1,0.0,0.0,Madhya Pradesh,Central,long record
+Gwalior,1,0.0,0.0,Madhya Pradesh,Central,long record
+Indore,1,0.0,0.0,Madhya Pradesh,Central,long record
+Muzaffarpur,1,0.0,0.0,Bihar,East,long record
+Patna,3,0.0,0.0,Bihar,East,long record
+Raipur,3,0.0,0.0,Chhattisgarh,East,recent only
+Bhubaneswar,2,0.0,0.0,Odisha,East,recent only
+Kolkata,3,0.0,0.0,West Bengal,East,long record
+Chandigarh,3,0.0,0.0,Chandigarh,North,long record
+Delhi,3,0.0,0.0,Delhi,North,long record
+Gurugram,3,0.0,0.0,Haryana,North,long record
+Shimla,1,0.0,0.0,Himachal Pradesh,North,long record
+Amritsar,1,0.0,0.0,Punjab,North,long record
+Ludhiana,1,0.0,0.0,Punjab,North,long record
+Jaipur,3,0.0,0.0,Rajasthan,North,long record
+Jodhpur,1,0.0,0.0,Rajasthan,North,long record
+Agra,2,0.0,0.0,Uttar Pradesh,North,long record
+Kanpur,3,0.0,0.0,Uttar Pradesh,North,long record
+Lucknow,3,0.0,0.0,Uttar Pradesh,North,long record
+Varanasi,3,0.0,0.0,Uttar Pradesh,North,long record
+Dehradun,1,0.0,0.0,Uttarakhand,North,recent only
+Guwahati,1,0.0,0.0,Assam,Northeast,long record
+Imphal,1,0.0,0.0,Manipur,Northeast,recent only
+Shillong,1,0.0,0.0,Meghalaya,Northeast,long record
+Aizawl,1,0.0,0.0,Mizoram,Northeast,long record
+Gangtok,1,0.0,0.0,Sikkim,Northeast,recent only
+Agartala,1,0.0,0.0,Tripura,Northeast,recent only
+Vijayawada,1,0.0,0.0,Andhra Pradesh,South,long record
+Visakhapatnam,1,0.0,0.0,Andhra Pradesh,South,long record
+Bengaluru,2,0.0,0.0,Karnataka,South,long record
+Mysuru,1,0.0,0.0,Karnataka,South,long record
+Kochi,2,0.0,0.0,Kerala,South,long record
+Thiruvananthapuram,3,0.0,0.0,Kerala,South,long record
+Chennai,3,0.0,0.0,Tamil Nadu,South,long record
+Coimbatore,2,0.0,0.0,Tamil Nadu,South,recent only
+Tiruchirappalli,1,0.0,0.0,Tamil Nadu,South,long record
+Vellore,1,0.0,0.0,Tamil Nadu,South,recent only
+Hyderabad,3,0.0,0.0,Telangana,South,long record
+Ahmedabad,3,0.0,0.0,Gujarat,West,long record
+Surat,1,0.0,0.0,Gujarat,West,recent only
+Mumbai,2,0.0,0.0,Maharashtra,West,long record
+Nagpur,1,0.0,0.0,Maharashtra,West,long record
+Pune,2,0.0,0.0,Maharashtra,West,long record

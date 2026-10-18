@@ -1,0 +1,5 @@
+scenario,captured_% | Climatology plan,captured_% | Yesterday plan,captured_% | AirShift,captured_% | AirShift (robust),captured_% | AirShift (final),regret_% | Climatology plan,regret_% | Yesterday plan,regret_% | AirShift,regret_% | AirShift (robust),regret_% | AirShift (final)
+Construction worker,47.5,48.2,57.3,56.3,57.3,16.8,17.9,14.2,14.7,14.2
+Delivery rider,44.3,44.2,55.3,54.4,55.3,10.9,12.2,9.2,9.6,9.2
+Street vendor,50.0,48.6,58.9,58.6,58.9,15.6,17.5,13.3,13.7,13.3
+Student: sports practice,45.8,44.0,53.3,52.9,53.3,34.6,38.1,31.0,31.9,31.0

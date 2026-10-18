@@ -1,0 +1,9 @@
+model,params,MAE,RMSE,MAE_log
+Persistence (now),,25.746,45.239,0.43
+Same hour yesterday,,17.525,31.88,0.352
+Climatology,,22.77,35.843,0.465
+Ridge,{'alpha': 1},14.992,26.442,0.302
+Ridge,{'alpha': 10},14.992,26.441,0.302
+RandomForest,{'leaf': 30},14.716,26.113,0.296
+HistGB,"{'lr': 0.05, 'leaves': 31, 'iters': 400}",14.653,26.013,0.295
+HistGB,"{'lr': 0.1, 'leaves': 63, 'iters': 300}",14.798,26.194,0.297

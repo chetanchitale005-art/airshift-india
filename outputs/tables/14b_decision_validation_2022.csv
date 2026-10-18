@@ -1,0 +1,6 @@
+model,params,MAE,captured_% | Construction worker,captured_% | Delivery rider,captured_% | Street vendor,captured_% | Student: sports practice,mean_captured_%
+Same hour yesterday,,17.52,48.16,43.22,48.97,44.81,46.29
+Climatology,,22.77,57.03,54.24,59.01,51.75,55.51
+HistGB,"{'lr': 0.05, 'leaves': 31, 'iters': 400}",14.65,60.71,57.79,63.03,56.37,59.47
+RandomForest,{'leaf': 30},14.72,59.56,56.44,61.7,55.27,58.24
+Ridge,{'alpha': 10},14.99,58.76,55.55,60.68,55.24,57.56

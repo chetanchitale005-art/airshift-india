@@ -1,0 +1,9 @@
+Region,rows,raw_quantile_coverage,conformal_coverage,median_width_ug
+North,61896.0,0.905,0.905,51.901
+East,17362.0,0.88,0.908,59.93
+Northeast,4211.0,0.871,0.872,66.908
+Central,11527.0,0.897,0.878,44.355
+West,17222.0,0.905,0.913,35.707
+South,50355.0,0.896,0.901,42.667
+All core cities 2024,162573.0,0.898,0.902,46.992
+New cities 2024 (pooled Q),66832.0,0.881,0.886,36.665

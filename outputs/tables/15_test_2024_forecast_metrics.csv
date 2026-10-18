@@ -1,0 +1,7 @@
+method,MAE,RMSE,MAE_log,within_day_rank_corr,skill_vs_best_baseline_%,mean_captured_%
+Persistence (now),23.585,41.355,0.418,0.261,-41.015,-36.189
+Same hour yesterday,16.725,30.767,0.343,0.361,0.0,46.269
+Climatology,20.774,33.809,0.426,0.416,-24.21,46.906
+HistGB,13.696,25.191,0.284,0.458,18.108,56.214
+RandomForest,13.835,25.261,0.287,0.437,17.282,55.455
+Ridge,13.998,25.304,0.291,0.428,16.305,53.962

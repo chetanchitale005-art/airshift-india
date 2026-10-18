@@ -1,0 +1,204 @@
+{
+  "core_cities": [
+    "Ahmedabad",
+    "Amritsar",
+    "Bengaluru",
+    "Chandigarh",
+    "Chennai",
+    "Delhi",
+    "Gurugram",
+    "Guwahati",
+    "Gwalior",
+    "Hyderabad",
+    "Indore",
+    "Jaipur",
+    "Jodhpur",
+    "Kanpur",
+    "Kochi",
+    "Kolkata",
+    "Lucknow",
+    "Ludhiana",
+    "Mumbai",
+    "Muzaffarpur",
+    "Mysuru",
+    "Nagpur",
+    "Patna",
+    "Shimla",
+    "Thiruvananthapuram",
+    "Tiruchirappalli",
+    "Varanasi",
+    "Vijayawada",
+    "Visakhapatnam"
+  ],
+  "new_cities": [
+    "Agartala",
+    "Agra",
+    "Aizawl",
+    "Bhopal",
+    "Bhubaneswar",
+    "Coimbatore",
+    "Dehradun",
+    "Gangtok",
+    "Imphal",
+    "Pune",
+    "Raipur",
+    "Shillong",
+    "Surat",
+    "Vellore"
+  ],
+  "regions": {
+    "North": [
+      "Agra",
+      "Amritsar",
+      "Chandigarh",
+      "Dehradun",
+      "Delhi",
+      "Gurugram",
+      "Jaipur",
+      "Jodhpur",
+      "Kanpur",
+      "Lucknow",
+      "Ludhiana",
+      "Shimla",
+      "Varanasi"
+    ],
+    "East": [
+      "Bhubaneswar",
+      "Kolkata",
+      "Muzaffarpur",
+      "Patna",
+      "Raipur"
+    ],
+    "Northeast": [
+      "Agartala",
+      "Aizawl",
+      "Gangtok",
+      "Guwahati",
+      "Imphal",
+      "Shillong"
+    ],
+    "Central": [
+      "Bhopal",
+      "Gwalior",
+      "Indore"
+    ],
+    "West": [
+      "Ahmedabad",
+      "Mumbai",
+      "Nagpur",
+      "Pune",
+      "Surat"
+    ],
+    "South": [
+      "Bengaluru",
+      "Chennai",
+      "Coimbatore",
+      "Hyderabad",
+      "Kochi",
+      "Mysuru",
+      "Thiruvananthapuram",
+      "Tiruchirappalli",
+      "Vellore",
+      "Vijayawada",
+      "Visakhapatnam"
+    ]
+  },
+  "years": "2020 to 2024",
+  "train": "2020 to 2022",
+  "calibration": 2023,
+  "test": 2024,
+  "selected_model": "HistGB",
+  "selected_params": "{'lr': 0.05, 'leaves': 31, 'iters': 400}",
+  "final_policy": "AirShift",
+  "median_within_day_ratio": {
+    "Ahmedabad": 2.21,
+    "Amritsar": 2.58,
+    "Bengaluru": 2.92,
+    "Chandigarh": 2.59,
+    "Chennai": 2.11,
+    "Delhi": 2.54,
+    "Gurugram": 2.15,
+    "Guwahati": 4.58,
+    "Gwalior": 3.53,
+    "Hyderabad": 2.12,
+    "Indore": 2.84,
+    "Jaipur": 2.41,
+    "Jodhpur": 3.4,
+    "Kanpur": 2.88,
+    "Kochi": 3.35,
+    "Kolkata": 1.94,
+    "Lucknow": 2.59,
+    "Ludhiana": 2.19,
+    "Mumbai": 2.09,
+    "Muzaffarpur": 3.02,
+    "Mysuru": 2.21,
+    "Nagpur": 2.63,
+    "Patna": 1.99,
+    "Shimla": 2.03,
+    "Thiruvananthapuram": 2.78,
+    "Tiruchirappalli": 4.04,
+    "Varanasi": 2.92,
+    "Vijayawada": 2.56,
+    "Visakhapatnam": 2.53
+  },
+  "test_2024": {
+    "MAE": 13.696,
+    "RMSE": 25.191,
+    "within_day_rank_corr": 0.458,
+    "skill_vs_best_baseline_%": 18.108
+  },
+  "best_baseline": "Same hour yesterday",
+  "best_baseline_MAE": 16.725,
+  "conformal_coverage_2024": 0.902,
+  "conformal_coverage_newcities": 0.886,
+  "backtest_2024": {
+    "Construction worker": {
+      "saving_vs_usual_pct": 15.8,
+      "oracle_saving_vs_usual_pct": 24.4,
+      "captured_pct": 57.3,
+      "captured_pct_climatology": 47.5
+    },
+    "Delivery rider": {
+      "saving_vs_usual_pct": 4.3,
+      "oracle_saving_vs_usual_pct": 11.3,
+      "captured_pct": 55.3,
+      "captured_pct_climatology": 44.3
+    },
+    "Street vendor": {
+      "saving_vs_usual_pct": 18.3,
+      "oracle_saving_vs_usual_pct": 26.2,
+      "captured_pct": 58.9,
+      "captured_pct_climatology": 50.0
+    },
+    "Student: sports practice": {
+      "saving_vs_usual_pct": 11.5,
+      "oracle_saving_vs_usual_pct": 27.4,
+      "captured_pct": 53.3,
+      "captured_pct_climatology": 45.8
+    }
+  },
+  "newcity_2024": {
+    "Construction worker": {
+      "captured_pct": 55.6,
+      "captured_pct_climatology": 42.1
+    },
+    "Delivery rider": {
+      "captured_pct": 54.3,
+      "captured_pct_climatology": 40.0
+    },
+    "Street vendor": {
+      "captured_pct": 58.2,
+      "captured_pct_climatology": 45.6
+    },
+    "Student: sports practice": {
+      "captured_pct": 52.0,
+      "captured_pct_climatology": 40.5
+    }
+  },
+  "versions": {
+    "pandas": "3.0.2",
+    "numpy": "2.4.4",
+    "scikit-learn": "1.8.0"
+  },
+  "data_sha256": "c9e9803b65aa121da4902986018489014ba8569f81c7ddadc55b695a0ecbd31a"
+}

@@ -1,0 +1,5 @@
+scenario,group,tasks,allowed window,usual start,feasible plans
+Construction worker,adult,"Heavy lifting 2h (high), Site work 4h (moderate)",06:00 to 20:00,09:00,18
+Delivery rider,adult,Delivery riding 8h (moderate),06:00 to 22:00,10:00,9
+Street vendor,adult,Vending 6h (light),06:00 to 22:00,16:00,11
+Student: sports practice,youth,"Sports 1h (high), Warm-up and drills 1h (moderate)",06:00 to 19:00,17:00,24

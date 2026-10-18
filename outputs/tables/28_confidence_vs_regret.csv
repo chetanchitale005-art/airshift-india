@@ -1,0 +1,4 @@
+confidence,days,mean_regret_forecast_plan,median_regret_forecast_plan,mean_regret_climatology_plan,share_of_days
+high,27710,14.212,3.869,16.869,0.763
+medium,3510,21.249,8.512,22.618,0.097
+low,5080,29.077,10.229,31.776,0.14

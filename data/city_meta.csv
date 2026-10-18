@@ -1,0 +1,47 @@
+City,State,Region,lat,lon,tier,stations_used
+Delhi,Delhi,North,28.6139,77.209,long record,"DL09, DL10, DL12"
+Gurugram,Haryana,North,28.4595,77.0266,long record,"HR09, HR08, HR11"
+Lucknow,Uttar Pradesh,North,26.8467,80.9462,long record,"UP02, UP10, UP06"
+Kanpur,Uttar Pradesh,North,26.4499,80.3319,long record,"UP12, UP26, UP30"
+Varanasi,Uttar Pradesh,North,25.3176,82.9739,long record,"UP11, UP23, UP24"
+Agra,Uttar Pradesh,North,27.1767,78.0081,long record,"UP22, UP31"
+Jaipur,Rajasthan,North,26.9124,75.7873,long record,"RJ03, RJ07, RJ06"
+Jodhpur,Rajasthan,North,26.2389,73.0243,long record,RJ09
+Chandigarh,Chandigarh,North,30.7333,76.7794,long record,"UN60, UN32, UN43"
+Amritsar,Punjab,North,31.634,74.8723,long record,PB03
+Ludhiana,Punjab,North,30.901,75.8573,long record,PB04
+Dehradun,Uttarakhand,North,30.3165,78.0322,recent only,UN74
+Shimla,Himachal Pradesh,North,31.1048,77.1734,long record,UN17
+Srinagar,Jammu and Kashmir,North,34.0837,74.7973,none,
+Kolkata,West Bengal,East,22.5726,88.3639,long record,"WB07, WB04, WB06"
+Patna,Bihar,East,25.5941,85.1376,long record,"BR06, BR07, BR05"
+Muzaffarpur,Bihar,East,26.1209,85.3647,long record,BR03
+Ranchi,Jharkhand,East,23.3441,85.3096,not in station list,
+Bhubaneswar,Odisha,East,20.2961,85.8245,recent only,"OR10, OR08"
+Raipur,Chhattisgarh,East,21.2514,81.6296,recent only,"CG05, CG03, CG04"
+Guwahati,Assam,Northeast,26.1445,91.7362,long record,AS03
+Shillong,Meghalaya,Northeast,25.5788,91.8933,long record,UN44
+Aizawl,Mizoram,Northeast,23.7271,92.7176,long record,UN50
+Agartala,Tripura,Northeast,23.8315,91.2868,recent only,UN10
+Imphal,Manipur,Northeast,24.817,93.9368,recent only,UN73
+Gangtok,Sikkim,Northeast,27.3389,88.6065,recent only,UN71
+Mumbai,Maharashtra,West,19.076,72.8777,long record,"MH28, MH23"
+Pune,Maharashtra,West,18.5204,73.8567,long record,"MH02, MH11"
+Nagpur,Maharashtra,West,21.1458,79.0882,long record,MH04
+Ahmedabad,Gujarat,West,23.0225,72.5714,long record,"GJ08, GJ03, GJ12"
+Surat,Gujarat,West,21.1702,72.8311,recent only,GJ18
+Bhopal,Madhya Pradesh,Central,23.2599,77.4126,long record,MP10
+Indore,Madhya Pradesh,Central,22.7196,75.8577,long record,MP07
+Gwalior,Madhya Pradesh,Central,26.2183,78.1828,long record,MP08
+Chennai,Tamil Nadu,South,13.0827,80.2707,long record,"TN02, TN03, TN01"
+Coimbatore,Tamil Nadu,South,11.0168,76.9558,recent only,"TN28, TN36"
+Tiruchirappalli,Tamil Nadu,South,10.7905,78.7047,long record,TN04
+Vellore,Tamil Nadu,South,12.9165,79.1325,recent only,TN22
+Salem,Tamil Nadu,South,11.6643,78.146,none,
+Bengaluru,Karnataka,South,12.9716,77.5946,long record,"KA02, KA06"
+Mysuru,Karnataka,South,12.2958,76.6394,long record,KA12
+Hyderabad,Telangana,South,17.385,78.4867,long record,"TG05, TG06, TG04"
+Visakhapatnam,Andhra Pradesh,South,17.6868,83.2185,long record,AP05
+Vijayawada,Andhra Pradesh,South,16.5062,80.648,long record,AP01
+Thiruvananthapuram,Kerala,South,8.5241,76.9366,long record,"KL07, KL06, KL11"
+Kochi,Kerala,South,9.9312,76.2673,long record,"KL03, KL14"

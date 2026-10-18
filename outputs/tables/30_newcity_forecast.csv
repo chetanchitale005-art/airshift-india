@@ -1,0 +1,4 @@
+method,MAE,RMSE,MAE_log
+Same hour yesterday,12.547,23.169,0.409
+Regional climatology,24.504,38.1,0.672
+HistGB,10.205,18.452,0.343
